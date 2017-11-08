@@ -48,5 +48,26 @@ body{
 .skewedbox{
     background: #edff57;
     padding: 100px 0;
-    transform: skew(0deg, -10deg);
+    transform: skew(0deg, -10deg) translateY(-120px);
 }
+
+.container{
+    padding: 150px 200px;
+    transform: skew(0deg, 10deg);
+
+}
+
+.container h1{
+    margin:0;
+    padding:20px 0;
+    font-size:3em;
+}
+
+.container p{
+    margin:0;
+    padding: 0;
+    font-size:1em;
+    line-height: 1.5em;
+    width:80%;
+}
+
