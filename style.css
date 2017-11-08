@@ -71,3 +71,24 @@ body{
     width:80%;
 }
 
+.sec2{
+    padding: 0 200px 150px;
+    color: #fff;
+    text-align: right;
+}
+
+.sec2 h1{
+    text-transform: capitalize;
+    margin:0;
+    padding:20px 0;
+    font-size:3em;
+}
+
+.sec2 p {
+    margin:0;
+    padding: 0;
+    font-size:1em;
+    line-height: 1.5em;
+    width:100%;
+}
+
