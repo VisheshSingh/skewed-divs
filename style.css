@@ -39,3 +39,14 @@ body{
     background: #ffeb3b;
     transform: skewY(-8deg);
 }
+
+/*index2.html styling*/
+.mainbody{
+    background: #262626;
+}
+
+.skewedbox{
+    background: #edff57;
+    padding: 100px 0;
+    transform: skew(0deg, -10deg);
+}
